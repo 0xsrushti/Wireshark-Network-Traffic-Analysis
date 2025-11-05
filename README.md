@@ -21,7 +21,7 @@ Capture live network packets and identify basic protocols and traffic types usin
    - `icmp`
    - `tcp`
 5. Analyzed each protocol and saved results as screenshots.
-6. Exported capture as `task5_capture.pcapng`.
+6. Exported capture as `capture.pcapng`.
 
 ## 📊 Protocols Identified
 | Protocol | Description | Example |
