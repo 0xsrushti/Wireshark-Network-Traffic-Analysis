@@ -32,13 +32,24 @@ Capture live network packets and identify basic protocols and traffic types usin
 | TCP | Transport layer protocol | SYN, ACK packets |
 
 ## 📸 Screenshots
-Included in the `/screenshots` folder:
-- 1_interfaces.png
-- 2_live_capture.png  
-- 3_http_packets.png  
-- 4_dns_packets.png  
-- 5_icmp_packets.png  
-- 6_tcp_packets.png  
+
+### 1️⃣ Start Capture on Network Interface
+![Start Capture on Interface](screenshots/1_interfaces.png)
+
+### 2️⃣ Live Packet Capture
+![Live Packet Capture](screenshots/2_live_capture.png)
+
+### 3️⃣ HTTP Packets (Filtered View)
+![HTTP Packets](screenshots/3_http_packets.png)
+
+### 4️⃣ DNS Packets (Filtered View)
+![DNS Packets](screenshots/4_dns_packets.png)
+
+### 5️⃣ ICMP Packets (Filtered View)
+![ICMP Packets](screenshots/5_icmp_packets.png)
+
+### 6️⃣ TCP Packets (Filtered View)
+![TCP Packets](screenshots/6_tcp_packets.png)
 
 ## 🧩 Outcome
 - Successfully captured and analyzed network traffic.
